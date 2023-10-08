@@ -33,7 +33,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Idle_loop (1)
+      name: Idle_base
       takeName: Esqueleto|base
       internalID: 2552065093707256095
       firstFrame: 0
